@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main{
+    height: 100vh;
+    background-color: #020a1d;
+}
+.MFinancial{
+    color: aliceblue;
+}
+.MAdvanced{
+    color: aliceblue;
+}
+.MRight{
+    color: aliceblue;
+}
+.Mdonec{
+    color: #61708d;
+}
+.MBlack{
+    color: #2d74a0;
+}
+.MCart{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.MHelping{
+    color: aliceblue;
+    font-size: 35px;
+} 
+.MANALYSIS{
+    color: #2d74a0;
+}
+.MLOrem{
+    color: rgb(182, 182, 182);
+}
+.Cart_One{
+    padding-top: 75px;
+    padding-left: 100px;
+}
