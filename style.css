@@ -1,0 +1,51 @@
+
+*{
+    padding: 0;
+    margin: 0;
+
+}
+header{
+    height: 100vh;
+    background-image: url(image/hero-generico.webp);
+    background-size: 120%;
+}
+.HList{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    color: aliceblue;
+}
+#Logo{
+    margin-right: 900px;
+
+}
+.HTTT{
+    width: 100px;
+    border-radius: 20px;
+    height: 23px;
+    background-color: #6d6d6d;
+    border: rgb(238, 237, 237) solid 1px; 
+    
+}
+.HLorem{
+    color: white;
+    font-size: 35px;
+}
+.HSee{
+    width: 155px;
+    height: 37px;
+    border-radius: 25px;
+    border: 0;
+    color: #8b8b8b;
+    font-size: 14px;
+}
+.HInfo{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 100px;
+    margin: 100px;
+}
+.HLoremm{
+    color: #6d6d6d;
+}
